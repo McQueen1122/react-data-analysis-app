@@ -1,3 +1,6 @@
+![image_2024-03-27_112418262](https://github.com/McQueen1122/react-data-analysis-app/assets/94354076/d1805b32-bf91-487a-9b3d-22ecc161968e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
